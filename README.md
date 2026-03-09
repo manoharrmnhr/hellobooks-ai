@@ -72,7 +72,7 @@ User Question
 ### 1. Clone
 
 ```bash
-git clone https://github.com/your-username/hellobooks-ai.git
+git clone https://github.com/manoharrmnhr/hellobooks-ai.git
 cd hellobooks-ai
 ```
 
